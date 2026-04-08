@@ -5,9 +5,6 @@ Projeto em Dados para utilização de diversas ferramentos de tratamento e visua
 
 Este projeto demonstra um pipeline de dados completo, desde a extração e tratamento até a visualização estratégica de indicadores de vendas. O objetivo principal foi transformar dados brutos em insights sobre faturamento, lucratividade e eficiência operacional.
 
-![Dashboard de Vendas](NOME_DA_SUA_FOTO.png) 
-> *Substitua 'NOME_DA_SUA_FOTO.png' pelo nome exato do arquivo de imagem que você subiu no GitHub.*
-
 ## 🛠️ Tecnologias Utilizadas
 * **SQL:** Extração de dados das bases relacionais.
 * **Python (Pandas):** Limpeza de dados, tratamento de valores ausentes e engenharia de atributos (Cálculo antecipado de faturamento).
